@@ -9,7 +9,7 @@ public class Whiz7 {
         if (i == 7) continue ;
         System.out.print(i + " ");
         if (i == 3) break ;
-        
+
       }
     }
   }
