@@ -9,5 +9,6 @@ public class Whiz14 {
   void iterator(int []i) {
     for (int x = 0; x < i.length; System.out.print(i[x] + " ")) x++;
 
+    // the output is 12 13 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException
   }
 }
