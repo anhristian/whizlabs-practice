@@ -12,5 +12,5 @@ public class Whiz16 {
     x = 2;
     return x;
   }
-// the output is 3 
+// the output is 3
 }
