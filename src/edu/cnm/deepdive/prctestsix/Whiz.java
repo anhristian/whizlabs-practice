@@ -14,6 +14,11 @@ public class Whiz {
     } finally {
       System.out.println("fin");
     }
+    int i = 0;
+    while (i++ <10){
+
+    }
+    System.out.println();
   }
   // te output is fin printed from finally fallowed by the exception NullPointerException.
 
